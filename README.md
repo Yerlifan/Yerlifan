@@ -1,5 +1,41 @@
-- 👋 Hi, I’m @Yerlifan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Selamlar, ben Burak! 👋
+
+[Biyomühendis | Game Developer | Doktora Öğrencisi]
+
+Teknoloji, bilim ve kodlamanın kesişim noktasında projeler üretiyorum. Şu anda Medeniyet Üniversitesi'nde çalışmalarımı sürdürüyorum.
+
+---
+
+### 🚀 Hakkımda
+- 🎓 **Eğitim:** Biyomühendislik alanında doktora yapıyorum.
+- 🔭 **Şu an üzerinde çalıştığım:** Multi Agent Orchestration.
+- 🌱 **Öğrenmeye devam ettiklerim:** AI sistemleri ve ileri Unity teknikleri.
+- 💡 **İlgi alanlarım:** Oyun geliştirme, Biyoteknoloji, Yapay Zeka.
+
+---
+
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+**Diller & Motorlar:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Araçlar & Diğerleri:**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radical" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### 📫 İletişim
+
+- **LinkedIn:** https://www.linkedin.com/in/burak-pak/
+- **Email:** pakkburak@gmail.com
