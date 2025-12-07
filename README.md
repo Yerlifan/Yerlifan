@@ -24,14 +24,6 @@ Teknoloji, bilim ve kodlamanın kesişim noktasında projeler üretiyorum. Şu a
 **Araçlar & Diğerleri:**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radical" height="150" alt="languages graph"  />
-</div>
 
 ---
 
