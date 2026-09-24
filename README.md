@@ -42,7 +42,7 @@ My path runs from molecular biology through biomaterials and medical devices to 
     </td>
     <td width="50%" valign="top">
       <b>🔬 Materials &amp; analytics</b><br>
-      Biocompatible polymer synthesis, ceramic molding, electrospinning, microfluidics, IC, HPLC, FTIR, XRD and SEM
+      Biocompatible polymer synthesis, ceramic molding, electrospinning, microfluidics, COMSOL Multiphysics modelling, IC, HPLC, FTIR, XRD and SEM
     </td>
   </tr>
 </table>
@@ -134,6 +134,7 @@ My path runs from molecular biology through biomaterials and medical devices to 
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-368CCB?style=flat-square" alt="COMSOL Multiphysics">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
