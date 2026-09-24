@@ -20,7 +20,7 @@
 
 I am a bioprocess engineer working at the point where wet lab work, data and code meet. By day I run anaerobic digestion experiments, BMP assays, HPLC analyses and enzyme activity measurements. My doctoral research focuses on membrane processes (MBR, NF, RO) and the removal of micropollutants such as pharmaceuticals and pesticides from wastewater and agricultural drainage water.
 
-Most of the software I write started as a lab problem that a spreadsheet could not solve fast enough. That is how kinetic simulators, primer design pipelines, calibration workflows and instrument automation scripts ended up in my toolbox. Outside the lab I build hardware prototypes, model parts in 3D and make games in Unity.
+Most of the software I write started as a lab problem that a spreadsheet could not solve fast enough. That is how kinetic simulators, primer design pipelines, calibration workflows and instrument automation scripts ended up in my toolbox. Outside the lab I design games, build AI agent systems, and prototype IoT devices from circuit design to firmware.
 
 ## Research focus
 
@@ -42,7 +42,32 @@ Most of the software I write started as a lab problem that a spreadsheet could n
     </td>
     <td width="50%" valign="top">
       <b>⚙️ Lab &amp; hardware tooling</b><br>
-      Analytical workflows (HPLC, enzyme assays), IoT sensing, biosensors, microfluidics, electrospinning
+      Analytical workflows (HPLC, enzyme assays), biosensors, microfluidics, electrospinning
+    </td>
+  </tr>
+</table>
+
+## Beyond the lab
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎮 Game design</b><br>
+      Designing and building games in Unity, from mechanics and level design to 3D assets in Blender
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI agents</b><br>
+      Building and orchestrating multi agent systems for research and everyday workflows
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📡 IoT</b><br>
+      Connected sensors and devices for data logging, monitoring and control
+    </td>
+    <td width="50%" valign="top">
+      <b>🔌 Circuit design</b><br>
+      Designing electronic circuits and taking them from schematic to working prototype
     </td>
   </tr>
 </table>
