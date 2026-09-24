@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:1D4ED8&height=190&section=header&text=Burak%20Aslancan%20Pak&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Bioprocess%20Engineering%20%C2%B7%20Membranes%20%C2%B7%20Scientific%20Software&descSize=16&descAlignY=58" alt="Burak Aslancan Pak" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:1D4ED8&height=190&section=header&text=Burak%20Aslancan%20Pak&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Bioprocess%20Scale-up%20%C2%B7%20Microbiome%20Products%20%C2%B7%20AI%20Orchestration&descSize=16&descAlignY=58" alt="Burak Aslancan Pak" width="100%">
 </p>
 
 <p align="center">
@@ -18,31 +18,31 @@
 
 ## About me
 
-I am a bioprocess engineer working at the point where wet lab work, data and code meet. By day I run anaerobic digestion experiments, BMP assays, HPLC analyses and enzyme activity measurements. My doctoral research focuses on membrane processes (MBR, NF, RO) and the removal of micropollutants such as pharmaceuticals and pesticides from wastewater and agricultural drainage water.
+I am a bioengineer and PhD candidate focused on bioprocess scale up and on turning microbiomes into commercial products. At Micrho Biyoteknoloji I lead R&D that takes microbial products from the lab bench to pilot scale: biomethane boosters, bioremediation biostimulators, soil conditioners, animal probiotics and biosensors.
 
-Most of the software I write started as a lab problem that a spreadsheet could not solve fast enough. That is how kinetic simulators, primer design pipelines, calibration workflows and instrument automation scripts ended up in my toolbox. Outside the lab I design games, build AI agent systems, and prototype IoT devices from circuit design to firmware.
+My path runs from molecular biology through biomaterials and medical devices to environmental engineering. Along the way I learned to connect wet lab research with hardware, software and AI orchestration, and that combination is what I enjoy most: building systems where experiments, instruments and code work together.
 
-## Research focus
+## Expertise
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🦠 Anaerobic digestion &amp; biogas</b><br>
-      BMP testing, process kinetics and modelling, fermentation derived biogas additives
+      <b>🦠 Microbiology &amp; genomics</b><br>
+      Microbial culturing and species isolation, DNA extraction, PCR and qPCR, custom primer design, sequence alignment and consensus sequence generation
     </td>
     <td width="50%" valign="top">
-      <b>💧 Membrane processes</b><br>
-      Moving bed membrane biofilm reactors, MBR fouling, NF and RO for water reuse
+      <b>⚗️ Bioprocess engineering</b><br>
+      Lab to pilot scale up, bioreactor optimization, anaerobic digestion and BMP tests, performance and quality metrics
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>💊 Micropollutant removal</b><br>
-      Pharmaceuticals and pesticides in biological and membrane treatment trains
+      <b>💧 Environmental engineering</b><br>
+      Wastewater treatment, membrane systems (MBR, NF, RO), fouling control, micropollutant removal
     </td>
     <td width="50%" valign="top">
-      <b>⚙️ Lab &amp; hardware tooling</b><br>
-      Analytical workflows (HPLC, enzyme assays), biosensors, microfluidics, electrospinning
+      <b>🔬 Materials &amp; analytics</b><br>
+      Biocompatible polymer synthesis, ceramic molding, electrospinning, microfluidics, IC, HPLC, FTIR, XRD and SEM
     </td>
   </tr>
 </table>
@@ -57,25 +57,43 @@ Most of the software I write started as a lab problem that a spreadsheet could n
     </td>
     <td width="50%" valign="top">
       <b>🤖 AI agents</b><br>
-      Building and orchestrating multi agent systems for research and everyday workflows
+      Multi agent orchestration and AI gateway configuration with platforms such as OpenClaw and AutoGen
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📡 IoT</b><br>
-      Connected sensors and devices for data logging, monitoring and control
+      <b>📡 IoT &amp; devices</b><br>
+      IoT product development, 3D modeled biomedical devices and connected sensors for monitoring and control
     </td>
     <td width="50%" valign="top">
       <b>🔌 Circuit design</b><br>
-      Designing electronic circuits and taking them from schematic to working prototype
+      Custom microcontroller based control electronics, from schematic to working prototype
     </td>
   </tr>
 </table>
 
+## Journey
+
+| When | Role | Where |
+| --- | --- | --- |
+| 2026 to present | **Senior Engineer**, R&amp;D and bioprocess scale up for microbiome based products | Micrho Biyoteknoloji |
+| 2024 to 2025 | **Researcher**, PRIMA project 123N078 on circular management of water, nutrients and biological resources in the Mediterranean agri-food chain | TÜBİTAK and EU PRIMA |
+| 2023 to 2024 | **R&amp;D Engineer**, TEYDEB project 7230324, a device for rapid cerebrospinal fluid pressure estimation during lumbar puncture | TÜBİTAK TEYDEB |
+| 2023 | **Technical Service Engineer**, respiratory equipment troubleshooting and repair | Respitek Vivisol |
+| 2021 to 2023 | **R&amp;D Project Manager**, IoT product development | ASDM |
+| 2017 to 2020 | **Scientific Researcher**, polyurethanes for nitinol based devices, thermoresponsive polyacrylamide valves for microfluidics, jet spinning hardware | Boğaziçi University |
+| 2016 to 2017 | **Intern**, electrospinning device and software, synthetic bone substitutes, cartilage scaffolds | Biruni University |
+
+## Education
+
+- **PhD, Bioengineering**, İstanbul Medeniyet University (2023 to 2027, expected)
+- **MSc, Bioengineering and Biomedical Engineering**, İstanbul Yeni Yüzyıl University (2020 to 2022)
+- **BSc, Molecular Biology**, Biruni University (2014 to 2019)
+
 ## Recent publications
 
 - **Pak, B.A.**, Bal, Y., Hatib, B.A., Bayrakdar, A., Sahinkaya, E. (2026). Impact of micropollutants and the process configuration on the performance of moving bed membrane biofilm reactor (MBMBR). *Water Research*, 300, 125944. [doi:10.1016/j.watres.2026.125944](https://doi.org/10.1016/j.watres.2026.125944)
-- **Pak, B.A.** et al. Micropollutant removal from agricultural drainage waters by nanofiltration and reverse osmosis processes. *Journal of Chemical Technology &amp; Biotechnology*. [doi:10.1002/jctb.70219](https://doi.org/10.1002/jctb.70219)
+- **Pak, B.A.**, Bal, Y., Demir, E.K., Ahmed Hatib, B., Güzel, B., Canlı, O., Öktem, E.E., Bayrakdar, A., Sahinkaya, E. (2026). Micropollutant removal from agricultural drainage waters by nanofiltration and reverse osmosis processes. *Journal of Chemical Technology &amp; Biotechnology*. [doi:10.1002/jctb.70219](https://doi.org/10.1002/jctb.70219)
 - Bal, Y., **Pak, B.A.**, Bayrakdar, A., Sahinkaya, E. (2025). Optimization of moving bed membrane bioreactor process for improved water and nutrient recovery from domestic wastewater. *Journal of Water Process Engineering*. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2214714425000066)
 
 <sub>Full list on <a href="https://scholar.google.com/citations?user=Mi8MdHgAAAAJ">Google Scholar</a> and <a href="https://orcid.org/0000-0002-7793-2215">ORCID</a>.</sub>
@@ -112,7 +130,7 @@ Most of the software I write started as a lab problem that a spreadsheet could n
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cs,js,react,bash,linux,git,docker,vscode,unity,blender,arduino,raspberrypi,md&perline=15" alt="Toolbox">
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,cs,js,react,bash,linux,git,docker,vscode,unity,blender,arduino,raspberrypi,md&perline=17" alt="Toolbox">
 </p>
 
 <p align="center">
@@ -132,7 +150,7 @@ Most of the software I write started as a lab problem that a spreadsheet could n
 
 ## Let's talk
 
-I am open to collaboration on bioprocess modelling, anaerobic digestion, membrane based water reuse, micropollutant removal, lab automation and research software. Email or LinkedIn is the fastest way to reach me.
+I am open to collaboration on microbiome based products, bioprocess scale up, anaerobic digestion, membrane based water reuse, lab automation and research software. Email or LinkedIn is the fastest way to reach me.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F766E&height=100&section=footer" alt="" width="100%">
